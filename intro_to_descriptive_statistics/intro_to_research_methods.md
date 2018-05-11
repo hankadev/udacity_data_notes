@@ -15,6 +15,8 @@ __Dependent variable (outcome)__ on axis Y. \
 We can predict the outcome using the independent variables, because we can see the trend in the graph.\
 In an experiment, the researcher manipulates the independent variable, measures changes in the dependent variable and seeks to control the lurking variables.
 
+__Hypothesis__ are statements about the relationship between variables.
+
 __Correlation does not prove causation!__ Lurking (extraneous) variables can falsely identify a strong relationship between variables.
 
 __Golden Arches Theory__ (Thomas Friedman): no two countries with a McDonald's have ever gone to war since opening the McDonald's.
