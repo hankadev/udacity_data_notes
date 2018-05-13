@@ -31,4 +31,4 @@ __Histogram__ is a type of graph which shows the frequency of data items in succ
 
 [Interactivate Histogram Applet](http://www.shodor.org/interactivate/activities/Histogram/)
 
-![histogram](https://github.com/hanny21/udacity_data_notes/tree/master/intro_to_descriptive_statistics/histogram.png)
+![histogram](https://github.com/hanny21/udacity_data_notes/blob/master/intro_to_descriptive_statistics/histogram.PNG)
