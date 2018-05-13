@@ -27,8 +27,12 @@ Frequency table with intervals (interval = bin = bucket), the bin size is 20.
 | 40 - 59     | 5          |
 | 60 - 79     | 5          |
 
-__Histogram__ is a type of graph which shows the frequency of data items in successive numerical intervals of equal size.
+__Histogram__ is a type of graph which shows the frequency of data items in successive numerical intervals of equal size. The data on x-axis are numerical (quantitative) - for example the age.
+
+__Positively skewed distribution__ means that histogram has most of the data on the left side. When there are most of the data on the right side, the histogram has __negatively skewed distribution__. When the data of histogram are symmetrical, it has __normal distribution__.
 
 [Interactivate Histogram Applet](http://www.shodor.org/interactivate/activities/Histogram/)
 
 ![histogram](https://github.com/hanny21/udacity_data_notes/blob/master/intro_to_descriptive_statistics/histogram.PNG)
+
+__Bar graph__ shows data with distinct categories (there are no intervals). The order of columns does not matter (we can switch them). The data on x-axis are categorical (qualitative) - for example the countries.
