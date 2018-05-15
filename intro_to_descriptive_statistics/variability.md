@@ -15,8 +15,17 @@ We can use __boxplot__ to visualize minimum, maximum, Q1 and Q3. Outliers are re
 ![boxplot](https://github.com/hanny21/udacity_data_notes/blob/master/intro_to_descriptive_statistics/img/boxplot.PNG)
 
 __Deviations from mean__ - calculating the distances of each value from the mean (value - mean).
+
 __Average deviation__ is the average of the deviations from the mean. The value is zero, so the solution is either to use absolute values to calculate deviations or to square each deviation.
+
 __Variance__ is mean of squared deviations (the sum of squared deviations divided by n).
+
 __Standard deviation__ is the square root of the variance. It is the most common measure of spread. The symbol is lower case greek sigma.
 
 ![deviations](https://github.com/hanny21/udacity_data_notes/blob/master/intro_to_descriptive_statistics/img/deviations.PNG)
+
+![normal_distribution](https://github.com/hanny21/udacity_data_notes/blob/master/intro_to_descriptive_statistics/img/normal_distr.PNG)
+
+__Bessels correction__ means that when calculating the standard deviation of the population we divide by n-1 instead only by n. This will make the variance bigger and compensate the fact, that the sample usually has lower variance (especially when there is normal distribution, most values from sample are close to mean, not the extreme values).
+
+![formulas](https://github.com/hanny21/udacity_data_notes/blob/master/intro_to_descriptive_statistics/img/deviations_formulas.PNG)
