@@ -33,6 +33,6 @@ __Positively skewed distribution__ means that histogram has most of the data on 
 
 [Interactivate Histogram Applet](http://www.shodor.org/interactivate/activities/Histogram/)
 
-![histogram](https://github.com/hanny21/udacity_data_notes/blob/master/intro_to_descriptive_statistics/histogram.PNG)
+![histogram](https://github.com/hanny21/udacity_data_notes/blob/master/intro_to_descriptive_statistics/img/histogram.PNG)
 
 __Bar graph__ shows data with distinct categories (there are no intervals). The order of columns does not matter (we can switch them). The data on x-axis are categorical (qualitative) - for example the countries.

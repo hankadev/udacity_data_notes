@@ -31,4 +31,4 @@ Value in the middle of the data (data must be ordered from smallest to largest o
 
 __Robust__ is the tendency of the median meaning that the median is not strongly affected by the outliers. So median is good measure for skewed distributions.
 
-![histogram](https://github.com/hanny21/udacity_data_notes/blob/master/intro_to_descriptive_statistics/measures_of_center.PNG)
+![histogram](https://github.com/hanny21/udacity_data_notes/blob/master/intro_to_descriptive_statistics/img/measures_of_center.PNG)
